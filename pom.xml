@@ -176,7 +176,7 @@
 	<distributionManagement>
    <snapshotRepository>
       <id>maven-public</id>
-      <url>http://35.224.177.116:8081/repository/maven-public/</url>
+      <url>http://35.224.177.116:8081/repository/freestyle/</url>
    </snapshotRepository>
 </distributionManagement>
 </project>
