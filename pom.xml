@@ -162,7 +162,7 @@
    </executions>
    <configuration>
       <serverId>nexus</serverId>
-      <nexusUrl>http://35.224.177.116:8081</nexusUrl>
+      <nexusUrl>http://35.224.218.171:8081/</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
@@ -176,7 +176,7 @@
 	<distributionManagement>
    <snapshotRepository>
       <id>maven-public</id>
-      <url>http://35.224.177.116:8081/repository/freestyle/</url>
+      <url>http://35.224.218.171:8081/repository/freestyle/</url>
    </snapshotRepository>
 </distributionManagement>
 </project>
