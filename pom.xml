@@ -137,6 +137,14 @@
               <groupId>net.sourceforge.pmd</groupId>
               <artifactId>pmd-core</artifactId>
               <version>6.1.0</version>
+		    <reportSets>
+          <reportSet>
+            <reports>
+              <report>pmd</report>
+              <report>cpd</report>
+            </reports>
+          </reportSet>
+        </reportSets>
             </dependency>
             <dependency>
               <groupId>net.sourceforge.pmd</groupId>
